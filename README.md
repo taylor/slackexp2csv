@@ -1,4 +1,4 @@
-# slackexp2csv -- convert slack.com export into re-importable csv
+## slackexp2csv -- slack.com export to csv
 
 For some reason slack.com does not take an import in the same format of it's export (as of 2014/06/08).  They do accept csv.  See
 
